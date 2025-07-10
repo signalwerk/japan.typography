@@ -34,17 +34,15 @@ async function mergeJsonChildren() {
         mainJson.children = mainJson.children.concat(currentJson.children);
       } else {
         console.warn(
-          `Warning: Skipping file ${filePath} as it does not contain a valid 'children' array.`
+          `Warning: Skipping file ${filePath} as it does not contain a valid 'children' array.`,
         );
       }
     }
 
     // Write the merged JSON to a new file
-    fs.writeFileSync(
-      path.join(basePath, outputFile),
-      JSON.stringify(mainJson, null, 2)
-    );
-    console.log(`Merged JSON saved to ${outputFile}`);
+    const outputPath = path.join(basePath, outputFile);
+    fs.writeFileSync(outputPath, JSON.stringify(mainJson, null, 2));
+    console.log(`Merged JSON saved to ${outputPath}`);
   } catch (error) {
     console.error("Error:", error.message);
   }
