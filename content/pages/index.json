@@ -32,7 +32,9 @@
               "type": "image",
               "crop": "crop@left:336.00000000000017,top:0,width:2688,height:4032;",
               "caption": "Street life · [Misaki, Japan](https://www.google.com/maps/place/34.95858055555556,133.88639722222223)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 04. 11. 2023 11:55</small>",
-              "path": "https://media.signalwerk.ch/japanese-typography/e35718becc5a8de2592285c41ec1cb739d67de10ef7a7d0d2be19526369a29d7/resize@width:250;/IMG_3484.jpg.jpg"
+              "hash": "8354a8d6181fbfc1976f4d1ff6d1b33f6033560f",
+              "filename": "IMG_3484.HEIC",
+              "alt": "Street life · Misaki, Japan"
             }
           ]
         }
@@ -53,7 +55,9 @@
               "type": "image",
               "crop": "rotate@angle:1;crop@left:405.41326959897344,top:419.8792687768478,width:3511.1842159816065,height:5266.673693173834;",
               "caption": "Manhole cover · [Ueno Park, Toyo, Japan](https://www.google.com/maps/place/35.71740833333334,139.7743388888889)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 09. 11. 2023 13:16</small>",
-              "path": "https://media.signalwerk.ch/japanese-typography/43d913d5d07f0fa4dabc5ff83fe6791dcf35cc9d584cba07f4355817c8000455/resize@width:250;/IMG_3812.jpg.jpg"
+              "hash": "010f3850b0ba6d70aab14d9e2bd19f0ff0ddc7af",
+              "filename": "IMG_3812.HEIC",
+              "alt": "Manhole cover · Ueno Park, Toyo, Japan"
             }
           ]
         }
@@ -74,7 +78,9 @@
               "type": "image",
               "crop": "crop@left:0,top:416.5,width:5712,height:3808;",
               "caption": "Menu · [Tokyo, Japan](https://www.google.com/maps/place/35.70378055555556,139.6009361111111)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 08. 11. 2023 19:17</small>",
-              "path": "https://media.signalwerk.ch/japanese-typography/ecd4bdcad3ac2704f93c5dcce98973042ebc06c012a5b1e44b0871b89c37ef65/resize@width:250;/IMG_3750.jpg.jpg"
+              "hash": "e48308e8983dd5beff9835f8919738b23cc8f83d",
+              "filename": "IMG_3750.HEIC",
+              "alt": "Menu · Tokyo, Japan"
             }
           ]
         }
@@ -105,10 +111,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/bc67b68d768df3ff692b12b17921827e34e9609bc139f374d4ed5fbe0504b993/resize@width:130;/IMG_3223.jpg.jpg",
                   "caption": "Menu · [Izuei Main restaurant, Tokyo, Japan](https://www.google.com/maps/place/35.70970555555556,139.77270555555558)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 19:04</small>",
                   "crop": "crop@left:0,top:336.00000000000017,width:4032,height:2688;",
-                  "alt": ""
+                  "alt": "Menu · Izuei Main restaurant, Tokyo, Japan",
+                  "hash": "2967f3a6a145c2884b4490818448984521ccd1c4",
+                  "filename": "IMG_3223.HEIC"
                 }
               ]
             }
@@ -130,10 +137,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/fda046a4f8ec10c4105dbdddcd32fffd9b28c2e30feb33e9bb8b09548b0ceaf7/resize@width:130;/IMG_3135.jpg.jpg",
                   "crop": "crop@left:119,top:0,width:3808,height:5712;",
-                  "alt": "",
-                  "caption": "Street bulletin board · [Tokyo, Japan](https://www.google.com/maps/place/35.724944444444446,139.7859638888889)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 09:54</small>"
+                  "alt": "Street bulletin board · Tokyo, Japan",
+                  "caption": "Street bulletin board · [Tokyo, Japan](https://www.google.com/maps/place/35.724944444444446,139.7859638888889)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 09:54</small>",
+                  "hash": "6dcf471229665f4a76f5f00f9fc40ff28ad74475",
+                  "filename": "IMG_3135.HEIC"
                 }
               ]
             },
@@ -142,10 +150,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/fda046a4f8ec10c4105dbdddcd32fffd9b28c2e30feb33e9bb8b09548b0ceaf7/resize@width:130;/IMG_3135.jpg.jpg",
                   "crop": "crop@left:1618.3999999999999,top:1223.46875,width:1068.3555555555556,height:641.2698412698413;",
-                  "alt": "",
-                  "caption": "Detail view"
+                  "alt": "Detail view",
+                  "caption": "Detail view",
+                  "hash": "6dcf471229665f4a76f5f00f9fc40ff28ad74475",
+                  "filename": "IMG_3135.HEIC"
                 }
               ]
             }
@@ -191,7 +200,9 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/aa32069fe40a96df46ac42210ea1cb81b9f6dee1ff4077c276615f946100f098/resize@width:250;/Japan Rail Pass Table vehicle A.png.jpg"
+                  "hash": "0735def0fd9d7f5c8c0f676d84afdb7205a2ec4e",
+                  "filename": "Japan Rail Pass Table vehicle A.png",
+                  "alt": ""
                 },
                 {
                   "type": "text",
@@ -199,8 +210,10 @@
                 },
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/2b5aca69f99d295dedcb6234b27c2b29feb7d860a353d0d6a24af003a509e64e/resize@width:250;/Japan Rail Pass Table vehicle B.png.jpg",
-                  "caption": "[Website Japan Rail Pass · Train accommodations](https://japanrailpass.net/en/about_jrp/vehicle/) · [archive copy](https://web.archive.org/web/20240120160729/https://japanrailpass.net/en/about_jrp/vehicle/)<small> · Screen&nbsp;capture:&nbsp;Stefan&nbsp;Huber · 20. 1. 2024</small>"
+                  "caption": "[Website Japan Rail Pass · Train accommodations](https://japanrailpass.net/en/about_jrp/vehicle/) · [archive copy](https://web.archive.org/web/20240120160729/https://japanrailpass.net/en/about_jrp/vehicle/)<small> · Screen&nbsp;capture:&nbsp;Stefan&nbsp;Huber · 20. 1. 2024</small>",
+                  "hash": "989cb67b81b343cf06efba20c40a971045bec170",
+                  "filename": "Japan Rail Pass Table vehicle B.png",
+                  "alt": "Website Japan Rail Pass · Train accommodations · archive copy"
                 }
               ]
             },
@@ -223,8 +236,10 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/99c35c5c39056a11435f050e2a354cf0dbaee980494b1df3c092b9d6f628a93f/resize@width:250;/Japan Rail Pass Table price.png.jpg",
-                  "caption": "[Website Japan Rail Pass · Types and prices](https://japanrailpass.net/en/purchase/price/) · [archive copy](https://web.archive.org/web/20240120160546/https://japanrailpass.net/en/purchase/price/)<small> · Screen&nbsp;capture:&nbsp;Stefan&nbsp;Huber · 20. 1. 2024</small>"
+                  "caption": "[Website Japan Rail Pass · Types and prices](https://japanrailpass.net/en/purchase/price/) · [archive copy](https://web.archive.org/web/20240120160546/https://japanrailpass.net/en/purchase/price/)<small> · Screen&nbsp;capture:&nbsp;Stefan&nbsp;Huber · 20. 1. 2024</small>",
+                  "hash": "43be524752d666663f0214ac0ac4920b0d6aafe6",
+                  "filename": "Japan Rail Pass Table price.png",
+                  "alt": "Website Japan Rail Pass · Types and prices · archive copy"
                 }
               ]
             },
@@ -332,7 +347,9 @@
               "type": "image",
               "crop": "crop@left:59.733333333333334,top:0,width:2688,height:4032;",
               "caption": "Street life · [Ueno Park, Toyo, Japan](https://www.google.com/maps/place/35.718250000000005,139.77346666666668)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 15:36</small>",
-              "path": "https://media.signalwerk.ch/japanese-typography/e8b9dde382b9a1e64477486eac57031a48c26baed93411a5fa9d2eff1799ca4a/resize@width:250;/IMG_3206.jpg.jpg"
+              "hash": "b75a6245545257428e97a8cb6884579d5aa799b0",
+              "filename": "IMG_3206.HEIC",
+              "alt": "Street life · Ueno Park, Toyo, Japan"
             }
           ]
         }
@@ -446,9 +463,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/435e5ed052dad3ccd0ce8fbe54f5e6bfd3ee7669676dd3d659911a13cc1fa8f4/resize@width:130;/IMG_3136.jpg.jpg",
                   "crop": "crop@left:465.5,top:410.64843749999994,width:3276,height:2184;",
-                  "caption": "Shelf label · [rébon Kaisaiyu, Tokyo](https://www.google.com/maps/place/35.722211111111115,139.78500277777778)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 10:26</small>"
+                  "caption": "Shelf label · [rébon Kaisaiyu, Tokyo](https://www.google.com/maps/place/35.722211111111115,139.78500277777778)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 10:26</small>",
+                  "hash": "a5a2dc85a50f1e493683f511f4d232845ca75504",
+                  "filename": "IMG_3136.HEIC",
+                  "alt": "Shelf label · rébon Kaisaiyu, Tokyo"
                 }
               ]
             }
@@ -487,9 +506,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/1bc330e3dcb2c68d1600a80ff66594e005d0f00da0a34caf6495d7f71bc3d406/resize@width:130;/IMG_3376.PNG.jpg",
                   "crop": "crop@left:0,top:643.7333333333332,width:1179,height:785.9798611111112;",
-                  "caption": "Alert for a disaster drill · [Zenbo Seinei, Awaji Island, Japan](https://www.google.com/maps/place/34.57884,134.98534)<small> · Screenshot:&nbsp;Stefan&nbsp;Huber · 02. 11. 2023 10:04</small>"
+                  "caption": "Alert for a disaster drill · [Zenbo Seinei, Awaji Island, Japan](https://www.google.com/maps/place/34.57884,134.98534)<small> · Screenshot:&nbsp;Stefan&nbsp;Huber · 02. 11. 2023 10:04</small>",
+                  "hash": "de0f08c972f8214e3ac5e6f8956b1186b9c26d27",
+                  "filename": "IMG_3377.PNG",
+                  "alt": "Alert for a disaster drill · Zenbo Seinei, Awaji Island, Japan"
                 }
               ]
             }
@@ -533,9 +554,11 @@
           "children": [
             {
               "type": "image",
-              "path": "https://media.signalwerk.ch/japanese-typography/13fae4bc8dcdd5ee7e15ff8426bfdfc067b984baeddecc72d8c14c8a84916129/resize@width:250;/IMG_3639.jpg.jpg",
               "crop": "crop@left:0,top:0,width:2688,height:4032;",
-              "caption": "Museum Scene · [21st Century Museum of Contemporary Art, Kanazawa, Japan](https://www.google.com/maps/place/36.56063888888889,136.65705833333334)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 07. 11. 2023 12:18</small>"
+              "caption": "Museum Scene · [21st Century Museum of Contemporary Art, Kanazawa, Japan](https://www.google.com/maps/place/36.56063888888889,136.65705833333334)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 07. 11. 2023 12:18</small>",
+              "hash": "46f0494252dca71548840f61f2665b62e3c1e5e7",
+              "filename": "IMG_3639.HEIC",
+              "alt": "Museum Scene · 21st Century Museum of Contemporary Art, Kanazawa, Japan"
             }
           ]
         }
@@ -561,9 +584,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/79d630a6091269e843d631acdce6a2c247863729fc324e4c1248c5f2a188a9ad/resize@width:130;/IMG_3246.jpg.jpg",
                   "crop": "rotate@angle:1.7;crop@left:236.9056188451194,top:576.0214773833518,width:3223.352207922989,height:2148.9645798919837;",
-                  "caption": "Information screen · [Train station Tokyo, Japan](https://www.google.com/maps/place/35.6806,139.7669527777778)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 31. 10. 2023 06:09</small>"
+                  "caption": "Information screen · [Train station Tokyo, Japan](https://www.google.com/maps/place/35.6806,139.7669527777778)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 31. 10. 2023 06:09</small>",
+                  "hash": "11bff2c7d8a4469477976d4041a0fe3ad7b9deab",
+                  "filename": "IMG_3246.HEIC",
+                  "alt": "Information screen · Train station Tokyo, Japan"
                 }
               ]
             },
@@ -576,9 +601,11 @@
                 },
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/79d630a6091269e843d631acdce6a2c247863729fc324e4c1248c5f2a188a9ad/resize@width:130;/IMG_3246.jpg.jpg",
                   "crop": "rotate@angle:1.7;crop@left:1493.2232945389344,top:913.1076762170951,width:1084.022680170092,height:722.7030101641193;",
-                  "caption": "Detail view"
+                  "caption": "Detail view",
+                  "hash": "11bff2c7d8a4469477976d4041a0fe3ad7b9deab",
+                  "filename": "IMG_3246.HEIC",
+                  "alt": "Detail view"
                 }
               ]
             }
@@ -599,8 +626,10 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/0804f9a2b2be68955e255244a81cd58c4700a252d82d7652cce0252580dfc703/resize@width:250;/DualShock_4.jpg",
-                  "caption": "Sony DualShock 4 (DS4) controller for the PlayStation 4<small> · Photo:&nbsp;[Evan Amos](https://commons.wikimedia.org/wiki/File:DualShock_4.jpg)</small>"
+                  "caption": "Sony DualShock 4 (DS4) controller for the PlayStation 4<small> · Photo:&nbsp;[Evan Amos](https://commons.wikimedia.org/wiki/File:DualShock_4.jpg)</small>",
+                  "hash": "f98ff4cb05aae3b9d6bcc711997b0de3e74ff57f",
+                  "filename": "DualShock_4.jpg",
+                  "alt": "Sony DualShock 4 (DS4) controller for the PlayStation 4"
                 }
               ]
             },
@@ -643,9 +672,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/d8d53d4cb4cce33a348c835783c3d66832ed8a6376c223defecbb259438a8bc2/resize@width:250;/IMG_3254.jpg.jpg",
                   "caption": "[Train station, Osaka, Japan](https://www.google.com/maps/place/34.70560555555556,135.49766666666665)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 31. 10. 2023 11:36</small>",
-                  "crop": "crop@left:117.3626060455257,top:1646.6472620787072,width:3364.33802917658,height:2242.8840794619164;"
+                  "crop": "crop@left:117.3626060455257,top:1646.6472620787072,width:3364.33802917658,height:2242.8840794619164;",
+                  "hash": "e2566e4547a5ad504cbefb16b17a726498d8d988",
+                  "filename": "IMG_3254.HEIC",
+                  "alt": "Train station, Osaka, Japan"
                 }
               ]
             }
@@ -669,7 +700,9 @@
               "type": "image",
               "crop": "crop@left:112,top:0,width:2688,height:4032;",
               "caption": "Storage space · [teamLab office, Tokyo, Japan](https://www.google.com/maps/place/35.695274999999995,139.76487777777777)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 08. 11. 2023 15:32</small>",
-              "path": "https://media.signalwerk.ch/japanese-typography/b58edb9aa5e5295968e207d4fff165d0a1db7f629de6b220349d940d1b1e5236/resize@width:250;/IMG_3709.jpg.jpg"
+              "hash": "2a18d64ca25fad0ef245d986e36a777583bc9870",
+              "filename": "IMG_3709.HEIC",
+              "alt": "Storage space · teamLab office, Tokyo, Japan"
             }
           ]
         }
@@ -692,8 +725,10 @@
                 {
                   "type": "image",
                   "caption": "Ticket: The 90th Anniversary Exhibition of Dokuritsu Art Association · [The National Art Center, Tokyo](https://www.google.com/maps/place/35.66513888888889,139.7268222222222)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 28. 10. 2023 17:47</small>",
-                  "path": "https://media.signalwerk.ch/japanese-typography/191547a2dbca5eec8dc99d138eff001c3c2656bf0840c9577df49bdacb2e1c11/resize@width:250;/IMG_3068.jpg.jpg",
-                  "crop": "rotate@angle:1;crop@left:90.99728037964866,top:68.06936639894859,width:2473.235173747126,height:3709.780468742698;"
+                  "crop": "rotate@angle:1;crop@left:90.99728037964866,top:68.06936639894859,width:2473.235173747126,height:3709.780468742698;",
+                  "hash": "7e55939704fa8f1957606e859becddb5689f408d",
+                  "filename": "IMG_3068.HEIC",
+                  "alt": "Ticket: The 90th Anniversary Exhibition of Dokuritsu Art Association · The National Art Center, Tokyo"
                 }
               ]
             },
@@ -727,9 +762,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/684e59b92d3eb63a555093234bae7001f57b78890e0aeff8126e529a55eca9c6/resize@width:250;/IMG_3099.jpg.jpg",
                   "crop": "crop@left:425.75555555555553,top:0,width:3741.8888888888887,height:5612.833333333333;",
-                  "caption": "Poster behind window · [Tokyo, Japan](https://www.google.com/maps/place/35.67397777777778,139.73748888888886)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 29. 10. 2023 10:47</small>"
+                  "caption": "Poster behind window · [Tokyo, Japan](https://www.google.com/maps/place/35.67397777777778,139.73748888888886)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 29. 10. 2023 10:47</small>",
+                  "hash": "2583efa9a7cec0922dad473f8a853a9f4bcf79cb",
+                  "filename": "IMG_3099.HEIC",
+                  "alt": "Poster behind window · Tokyo, Japan"
                 }
               ]
             },
@@ -772,9 +809,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/6bf645ba20676a18849021ad6f55c3bcda88c6c76d32b7643da2dc22a498176c/resize@width:250;/IMG_3124.jpg.jpg",
                   "crop": "rotate@angle:0.6;crop@left:449.73030707576584,top:787.7976019009164,width:3103.1391188227844,height:2068.802696310467;",
-                  "caption": "Detail view Signage · [Tokyo, Japan](https://www.google.com/maps/place/35.72645555555556,139.78803888888888)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 09:49</small>"
+                  "caption": "Detail view Signage · [Tokyo, Japan](https://www.google.com/maps/place/35.72645555555556,139.78803888888888)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 09:49</small>",
+                  "hash": "58e49a3cb67ecb83b1902cfbb8d31b7a1c35075f",
+                  "filename": "IMG_3124.HEIC",
+                  "alt": "Detail view Signage · Tokyo, Japan"
                 }
               ]
             }
@@ -800,9 +839,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/f3a73e52c7815df1cfe42e5dbfd0474c45ce3fe2b26bb216e409fa474dd4b62c/resize@width:250;/IMG_3073.jpg.jpg",
                   "crop": "crop@left:433.6888888888889,top:10.577777777777778,width:3754.229629629629,height:5631.344444444444;",
-                  "caption": "Leaflet ·  [The National Art Center, Tokyo](https://www.google.com/maps/place/35.66488611111111,139.72653333333332)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 28. 10. 2023 17:53</small>"
+                  "caption": "Leaflet ·  [The National Art Center, Tokyo](https://www.google.com/maps/place/35.66488611111111,139.72653333333332)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 28. 10. 2023 17:53</small>",
+                  "hash": "724d443d41302888e680dc0154921c4f8491d3fa",
+                  "filename": "IMG_3073.HEIC",
+                  "alt": "Leaflet ·  The National Art Center, Tokyo"
                 }
               ]
             },
@@ -837,9 +878,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/b0a1a03a314e073605eabf0c19a1bebaf5b17c879e355dc0b5b79801e3a613ce/resize@width:250;/IMG_3227.jpg.jpg",
                   "crop": "rotate@angle:-0.5;crop@left:69.86834874708865,top:64.90538829407497,width:5344.928679152282,height:3563.392440274909;",
-                  "caption": "Poster · [Metro, Tokyo, Japan](https://www.google.com/maps/place/35.707858333333334,139.76973055555558)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 20:54</small>"
+                  "caption": "Poster · [Metro, Tokyo, Japan](https://www.google.com/maps/place/35.707858333333334,139.76973055555558)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 20:54</small>",
+                  "hash": "654d4258a654d7909a0f3bc268d83f85c5725eed",
+                  "filename": "IMG_3227.HEIC",
+                  "alt": "Poster · Metro, Tokyo, Japan"
                 }
               ]
             },
@@ -850,7 +893,9 @@
                   "type": "image",
                   "crop": "rotate@angle:0.8;crop@left:99.016667607839,top:433.92074719789326,width:3679.927853632098,height:2453.361814528746;",
                   "caption": "Poster detail · [Metro, Tokyo, Japan](https://www.google.com/maps/place/35.707858333333334,139.76973055555558)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 20:54</small>",
-                  "path": "https://media.signalwerk.ch/japanese-typography/39fd938160fd15d256173d34d96a55bcbdef79fd3a394453130396de3234e034/resize@width:250;/IMG_3228.jpg.jpg"
+                  "hash": "4e27c0f6879e9889666e270c7ba525c52e0ebd28",
+                  "filename": "IMG_3228.HEIC",
+                  "alt": "Poster detail · Metro, Tokyo, Japan"
                 }
               ]
             },
@@ -888,9 +933,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/711f1c6b66d8b027ac67e41e21cb99c863534d4f867bcfdbdb62b52f4ee35bf6/resize@width:250;/IMG_3877.jpg.jpg",
                   "crop": "crop@left:0,top:1766.4888888888888,width:4284,height:2856;",
-                  "caption": "Poster detail · [Tokyo, Japan](https://www.google.com/maps/place/35.69566388888889,139.76768611111112)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 12. 11. 2023 13:19</small>"
+                  "caption": "Poster detail · [Tokyo, Japan](https://www.google.com/maps/place/35.69566388888889,139.76768611111112)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 12. 11. 2023 13:19</small>",
+                  "hash": "dcb42d48005c915f935a3184051d6ab94dc34e3e",
+                  "filename": "IMG_3877.HEIC",
+                  "alt": "Poster detail · Tokyo, Japan"
                 }
               ]
             },
@@ -923,7 +970,9 @@
               "type": "image",
               "crop": "rotate@angle:-90;crop@left:0,top:396.66666666666663,width:5712,height:3808;",
               "caption": "Manhole cover · [Tokyo, Japan](https://www.google.com/maps/place/35.66510833333333,139.72903333333335)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 29. 10. 2023 14:34</small>",
-              "path": "https://media.signalwerk.ch/japanese-typography/dc0f2216d7b2cf9c9075f85a181ab4e4192e7c623ae4c46e54f08f0428a3e4a7/resize@width:250;/IMG_3109.jpg.jpg"
+              "hash": "c66aaa4eb24a5fee66be2c0bfa3b37234363a04d",
+              "filename": "IMG_3109.HEIC",
+              "alt": "Manhole cover · Tokyo, Japan"
             }
           ]
         }
@@ -946,9 +995,11 @@
           "children": [
             {
               "type": "image",
-              "path": "https://media.signalwerk.ch/japanese-typography/d27276b84ea2595dd0feda84c1b882365f4079adddce5cd2b04042c5fa651836/resize@width:250;/IMG_3081.jpg.jpg",
               "crop": "crop@left:63,top:197.31249999999997,width:3969,height:2646;",
-              "caption": "Restaurant signage · [Tokyo, Japan](https://www.google.com/maps/place/35.66486666666667,139.7280111111111)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 28. 10. 2023 18:19</small>"
+              "caption": "Restaurant signage · [Tokyo, Japan](https://www.google.com/maps/place/35.66486666666667,139.7280111111111)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 28. 10. 2023 18:19</small>",
+              "hash": "c38d0d7bf69015d5242756ef25c13567db9726ff",
+              "filename": "IMG_3081.HEIC",
+              "alt": "Restaurant signage · Tokyo, Japan"
             }
           ]
         }

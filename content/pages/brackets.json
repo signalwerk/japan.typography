@@ -82,7 +82,6 @@
       ],
       "title": "Example · Brackets in Latin Alphabet"
     },
-
     {
       "type": "text",
       "body": "### Observations of Japanese Brackets\n\nJapanese typography features a range of typographic symbols[^wiki-japanese-typographic-symbols], each serving specific aesthetic and functional purposes within the script. This aspect of typographic design showcases the variety and distinct roles these elements play, contributing to the overall structure and style of the script.\n\nJapanese script features various brackets[^wiki-japanese-punctuation], such as corner brackets「」/『』, lenticular brackets【】, and tortoise shell brackets〔〕. Each type of bracket serves a specific purpose and is chosen based on the context and content of the text. \nThe functional aspects of these brackets are diverse. For instance, corner brackets are commonly used for direct speech[^jpn-with-anime] or titles, while lenticular brackets often enclose definitions or explanations. This functional specificity enhances the meaning and clarity of the written text.\n\n[^jpn-with-anime]: [Japanese with Anime · Quotation Marks](https://www.japanesewithanime.com/2017/05/quotation-marks-japanese.html)\n[^wiki-japanese-punctuation]: [Wikipedia · Japanese punctuation](https://en.wikipedia.org/wiki/Japanese_punctuation)\n[^wiki-japanese-typographic-symbols]: [Wikipedia · Japanese typographic symbols](https://en.wikipedia.org/wiki/List_of_Japanese_typographic_symbols)"
@@ -113,9 +112,10 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/435e5ed052dad3ccd0ce8fbe54f5e6bfd3ee7669676dd3d659911a13cc1fa8f4/resize@width:130;/IMG_3136.jpg.jpg",
                   "crop": "crop@left:465.5,top:410.64843749999994,width:3276,height:2184;",
-                  "caption": "Shelf label · [rébon Kaisaiyu, Tokyo](https://www.google.com/maps/place/35.722211111111115,139.78500277777778)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 10:26</small>"
+                  "caption": "Shelf label · [rébon Kaisaiyu, Tokyo](https://www.google.com/maps/place/35.722211111111115,139.78500277777778)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 10:26</small>",
+                  "hash": "a5a2dc85a50f1e493683f511f4d232845ca75504",
+                  "filename": "IMG_3136.HEIC"
                 }
               ]
             }
@@ -154,9 +154,10 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/1bc330e3dcb2c68d1600a80ff66594e005d0f00da0a34caf6495d7f71bc3d406/resize@width:130;/IMG_3376.PNG.jpg",
                   "crop": "crop@left:0,top:643.7333333333332,width:1179,height:785.9798611111112;",
-                  "caption": "Alert for a disaster drill · [Zenbo Seinei, Awaji Island, Japan](https://www.google.com/maps/place/34.57884,134.98534)<small> · Screenshot:&nbsp;Stefan&nbsp;Huber · 02. 11. 2023 10:04</small>"
+                  "caption": "Alert for a disaster drill · [Zenbo Seinei, Awaji Island, Japan](https://www.google.com/maps/place/34.57884,134.98534)<small> · Screenshot:&nbsp;Stefan&nbsp;Huber · 02. 11. 2023 10:04</small>",
+                  "hash": "de0f08c972f8214e3ac5e6f8956b1186b9c26d27",
+                  "filename": "IMG_3377.PNG"
                 }
               ]
             }
@@ -200,9 +201,10 @@
           "children": [
             {
               "type": "image",
-              "path": "https://media.signalwerk.ch/japanese-typography/13fae4bc8dcdd5ee7e15ff8426bfdfc067b984baeddecc72d8c14c8a84916129/resize@width:250;/IMG_3639.jpg.jpg",
               "crop": "crop@left:0,top:0,width:2688,height:4032;",
-              "caption": "Museum Scene · [21st Century Museum of Contemporary Art, Kanazawa, Japan](https://www.google.com/maps/place/36.56063888888889,136.65705833333334)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 07. 11. 2023 12:18</small>"
+              "caption": "Museum Scene · [21st Century Museum of Contemporary Art, Kanazawa, Japan](https://www.google.com/maps/place/36.56063888888889,136.65705833333334)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 07. 11. 2023 12:18</small>",
+              "hash": "46f0494252dca71548840f61f2665b62e3c1e5e7",
+              "filename": "IMG_3639.HEIC"
             }
           ]
         }

@@ -1,12 +1,19 @@
 const processor = {
   types: {
     image: (item) => {
-      let path = item.path || "";
-      path = path.replace("resize@width:130;", "resize@width:1500;");
-      path = path.replace("resize@width:250;", "resize@width:1500;");
+      const config = [];
       if (item.crop) {
-        path = path.replace("/resize@", `/${item.crop}resize@`);
+        config.push(item.crop);
       }
+
+      config.push("resize@width:1500;");
+
+      const path = [
+        "./assets/media",
+        item.hash,
+        config.join(""),
+        `${item.filename}.jpg`,
+      ].join("/");
 
       return {
         ...item,

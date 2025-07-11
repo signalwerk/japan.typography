@@ -19,8 +19,9 @@
                 {
                   "type": "image",
                   "caption": "Ticket: The 90th Anniversary Exhibition of Dokuritsu Art Association · [The National Art Center, Tokyo](https://www.google.com/maps/place/35.66513888888889,139.7268222222222)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 28. 10. 2023 17:47</small>",
-                  "path": "https://media.signalwerk.ch/japanese-typography/191547a2dbca5eec8dc99d138eff001c3c2656bf0840c9577df49bdacb2e1c11/resize@width:250;/IMG_3068.jpg.jpg",
-                  "crop": "rotate@angle:1;crop@left:90.99728037964866,top:68.06936639894859,width:2473.235173747126,height:3709.780468742698;"
+                  "crop": "rotate@angle:1;crop@left:90.99728037964866,top:68.06936639894859,width:2473.235173747126,height:3709.780468742698;",
+                  "hash": "7e55939704fa8f1957606e859becddb5689f408d",
+                  "filename": "IMG_3068.HEIC"
                 }
               ]
             },
@@ -54,13 +55,13 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/684e59b92d3eb63a555093234bae7001f57b78890e0aeff8126e529a55eca9c6/resize@width:250;/IMG_3099.jpg.jpg",
                   "crop": "crop@left:425.75555555555553,top:0,width:3741.8888888888887,height:5612.833333333333;",
-                  "caption": "Poster behind window · [Tokyo, Japan](https://www.google.com/maps/place/35.67397777777778,139.73748888888886)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 29. 10. 2023 10:47</small>"
+                  "caption": "Poster behind window · [Tokyo, Japan](https://www.google.com/maps/place/35.67397777777778,139.73748888888886)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 29. 10. 2023 10:47</small>",
+                  "hash": "2583efa9a7cec0922dad473f8a853a9f4bcf79cb",
+                  "filename": "IMG_3099.HEIC"
                 }
               ]
             },
-
             {
               "cols": 6,
               "children": [
@@ -100,9 +101,10 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/6bf645ba20676a18849021ad6f55c3bcda88c6c76d32b7643da2dc22a498176c/resize@width:250;/IMG_3124.jpg.jpg",
                   "crop": "rotate@angle:0.6;crop@left:449.73030707576584,top:787.7976019009164,width:3103.1391188227844,height:2068.802696310467;",
-                  "caption": "Detail view Signage · [Tokyo, Japan](https://www.google.com/maps/place/35.72645555555556,139.78803888888888)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 09:49</small>"
+                  "caption": "Detail view Signage · [Tokyo, Japan](https://www.google.com/maps/place/35.72645555555556,139.78803888888888)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 09:49</small>",
+                  "hash": "58e49a3cb67ecb83b1902cfbb8d31b7a1c35075f",
+                  "filename": "IMG_3124.HEIC"
                 }
               ]
             }
@@ -128,9 +130,10 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/f3a73e52c7815df1cfe42e5dbfd0474c45ce3fe2b26bb216e409fa474dd4b62c/resize@width:250;/IMG_3073.jpg.jpg",
                   "crop": "crop@left:433.6888888888889,top:10.577777777777778,width:3754.229629629629,height:5631.344444444444;",
-                  "caption": "Leaflet ·  [The National Art Center, Tokyo](https://www.google.com/maps/place/35.66488611111111,139.72653333333332)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 28. 10. 2023 17:53</small>"
+                  "caption": "Leaflet ·  [The National Art Center, Tokyo](https://www.google.com/maps/place/35.66488611111111,139.72653333333332)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 28. 10. 2023 17:53</small>",
+                  "hash": "724d443d41302888e680dc0154921c4f8491d3fa",
+                  "filename": "IMG_3073.HEIC"
                 }
               ]
             },

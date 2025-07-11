@@ -29,10 +29,11 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/bc67b68d768df3ff692b12b17921827e34e9609bc139f374d4ed5fbe0504b993/resize@width:130;/IMG_3223.jpg.jpg",
                   "caption": "Menu · [Izuei Main restaurant, Tokyo, Japan](https://www.google.com/maps/place/35.70970555555556,139.77270555555558)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 19:04</small>",
                   "crop": "crop@left:0,top:336.00000000000017,width:4032,height:2688;",
-                  "alt": ""
+                  "alt": "",
+                  "hash": "2967f3a6a145c2884b4490818448984521ccd1c4",
+                  "filename": "IMG_3223.HEIC"
                 }
               ]
             }
@@ -54,23 +55,24 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/fda046a4f8ec10c4105dbdddcd32fffd9b28c2e30feb33e9bb8b09548b0ceaf7/resize@width:130;/IMG_3135.jpg.jpg",
                   "crop": "crop@left:119,top:0,width:3808,height:5712;",
                   "alt": "",
-                  "caption": "Street bulletin board · [Tokyo, Japan](https://www.google.com/maps/place/35.724944444444446,139.7859638888889)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 09:54</small>"
+                  "caption": "Street bulletin board · [Tokyo, Japan](https://www.google.com/maps/place/35.724944444444446,139.7859638888889)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 09:54</small>",
+                  "hash": "6dcf471229665f4a76f5f00f9fc40ff28ad74475",
+                  "filename": "IMG_3135.HEIC"
                 }
               ]
             },
-
             {
               "cols": 7,
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/fda046a4f8ec10c4105dbdddcd32fffd9b28c2e30feb33e9bb8b09548b0ceaf7/resize@width:130;/IMG_3135.jpg.jpg",
                   "crop": "crop@left:1618.3999999999999,top:1223.46875,width:1068.3555555555556,height:641.2698412698413;",
                   "alt": "",
-                  "caption": "Detail view"
+                  "caption": "Detail view",
+                  "hash": "6dcf471229665f4a76f5f00f9fc40ff28ad74475",
+                  "filename": "IMG_3135.HEIC"
                 }
               ]
             }
@@ -116,7 +118,8 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/aa32069fe40a96df46ac42210ea1cb81b9f6dee1ff4077c276615f946100f098/resize@width:250;/Japan Rail Pass Table vehicle A.png.jpg"
+                  "hash": "0735def0fd9d7f5c8c0f676d84afdb7205a2ec4e",
+                  "filename": "Japan Rail Pass Table vehicle A.png"
                 },
                 {
                   "type": "text",
@@ -124,8 +127,9 @@
                 },
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/2b5aca69f99d295dedcb6234b27c2b29feb7d860a353d0d6a24af003a509e64e/resize@width:250;/Japan Rail Pass Table vehicle B.png.jpg",
-                  "caption": "[Website Japan Rail Pass · Train accommodations](https://japanrailpass.net/en/about_jrp/vehicle/) · [archive copy](https://web.archive.org/web/20240120160729/https://japanrailpass.net/en/about_jrp/vehicle/)<small> · Screen&nbsp;capture:&nbsp;Stefan&nbsp;Huber · 20. 1. 2024</small>"
+                  "caption": "[Website Japan Rail Pass · Train accommodations](https://japanrailpass.net/en/about_jrp/vehicle/) · [archive copy](https://web.archive.org/web/20240120160729/https://japanrailpass.net/en/about_jrp/vehicle/)<small> · Screen&nbsp;capture:&nbsp;Stefan&nbsp;Huber · 20. 1. 2024</small>",
+                  "hash": "989cb67b81b343cf06efba20c40a971045bec170",
+                  "filename": "Japan Rail Pass Table vehicle B.png"
                 }
               ]
             },
@@ -148,8 +152,9 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/99c35c5c39056a11435f050e2a354cf0dbaee980494b1df3c092b9d6f628a93f/resize@width:250;/Japan Rail Pass Table price.png.jpg",
-                  "caption": "[Website Japan Rail Pass · Types and prices](https://japanrailpass.net/en/purchase/price/) · [archive copy](https://web.archive.org/web/20240120160546/https://japanrailpass.net/en/purchase/price/)<small> · Screen&nbsp;capture:&nbsp;Stefan&nbsp;Huber · 20. 1. 2024</small>"
+                  "caption": "[Website Japan Rail Pass · Types and prices](https://japanrailpass.net/en/purchase/price/) · [archive copy](https://web.archive.org/web/20240120160546/https://japanrailpass.net/en/purchase/price/)<small> · Screen&nbsp;capture:&nbsp;Stefan&nbsp;Huber · 20. 1. 2024</small>",
+                  "hash": "43be524752d666663f0214ac0ac4920b0d6aafe6",
+                  "filename": "Japan Rail Pass Table price.png"
                 }
               ]
             },
@@ -257,7 +262,8 @@
               "type": "image",
               "crop": "crop@left:59.733333333333334,top:0,width:2688,height:4032;",
               "caption": "Street life · [Ueno Park, Toyo, Japan](https://www.google.com/maps/place/35.718250000000005,139.77346666666668)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 30. 10. 2023 15:36</small>",
-              "path": "https://media.signalwerk.ch/japanese-typography/e8b9dde382b9a1e64477486eac57031a48c26baed93411a5fa9d2eff1799ca4a/resize@width:250;/IMG_3206.jpg.jpg"
+              "hash": "b75a6245545257428e97a8cb6884579d5aa799b0",
+              "filename": "IMG_3206.HEIC"
             }
           ]
         }

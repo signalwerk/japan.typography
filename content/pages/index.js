@@ -39,6 +39,24 @@ async function mergeJsonChildren() {
       }
     }
 
+    function walk(node) {
+      if (node.type === "image") {
+        let alt = node.alt || node.caption || "";
+
+        // remove <small></small> tags
+        alt = alt.replace(/<small>.*<\/small>/g, "");
+
+        // reomve markdown links but keep text
+        alt = alt.replace(/\[(.*?)\]\(.*?\)/g, "$1");
+
+        node.alt = alt;
+      }
+      if (node.children) {
+        node.children.forEach(walk);
+      }
+    }
+    walk(mainJson);
+
     // Write the merged JSON to a new file
     const outputPath = path.join(basePath, outputFile);
     fs.writeFileSync(outputPath, JSON.stringify(mainJson, null, 2));

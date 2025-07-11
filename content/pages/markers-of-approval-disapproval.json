@@ -3,7 +3,6 @@
   "date": "1705857560675",
   "title": "Markers of Approval and Disapproval",
   "path": "/markers-of-approval-disapproval/",
-
   "children": [
     {
       "type": "text",
@@ -25,9 +24,10 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/79d630a6091269e843d631acdce6a2c247863729fc324e4c1248c5f2a188a9ad/resize@width:130;/IMG_3246.jpg.jpg",
                   "crop": "rotate@angle:1.7;crop@left:236.9056188451194,top:576.0214773833518,width:3223.352207922989,height:2148.9645798919837;",
-                  "caption": "Information screen · [Train station Tokyo, Japan](https://www.google.com/maps/place/35.6806,139.7669527777778)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 31. 10. 2023 06:09</small>"
+                  "caption": "Information screen · [Train station Tokyo, Japan](https://www.google.com/maps/place/35.6806,139.7669527777778)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 31. 10. 2023 06:09</small>",
+                  "hash": "11bff2c7d8a4469477976d4041a0fe3ad7b9deab",
+                  "filename": "IMG_3246.HEIC"
                 }
               ]
             },
@@ -40,9 +40,10 @@
                 },
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/79d630a6091269e843d631acdce6a2c247863729fc324e4c1248c5f2a188a9ad/resize@width:130;/IMG_3246.jpg.jpg",
                   "crop": "rotate@angle:1.7;crop@left:1493.2232945389344,top:913.1076762170951,width:1084.022680170092,height:722.7030101641193;",
-                  "caption": "Detail view"
+                  "caption": "Detail view",
+                  "hash": "11bff2c7d8a4469477976d4041a0fe3ad7b9deab",
+                  "filename": "IMG_3246.HEIC"
                 }
               ]
             }
@@ -63,8 +64,9 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/0804f9a2b2be68955e255244a81cd58c4700a252d82d7652cce0252580dfc703/resize@width:250;/DualShock_4.jpg",
-                  "caption": "Sony DualShock 4 (DS4) controller for the PlayStation 4<small> · Photo:&nbsp;[Evan Amos](https://commons.wikimedia.org/wiki/File:DualShock_4.jpg)</small>"
+                  "caption": "Sony DualShock 4 (DS4) controller for the PlayStation 4<small> · Photo:&nbsp;[Evan Amos](https://commons.wikimedia.org/wiki/File:DualShock_4.jpg)</small>",
+                  "hash": "f98ff4cb05aae3b9d6bcc711997b0de3e74ff57f",
+                  "filename": "DualShock_4.jpg"
                 }
               ]
             },
@@ -86,7 +88,6 @@
       ],
       "title": "Example · Japnese symbols entering western culture"
     },
-
     {
       "type": "box",
       "preset": "expample",
@@ -108,9 +109,10 @@
               "children": [
                 {
                   "type": "image",
-                  "path": "https://media.signalwerk.ch/japanese-typography/d8d53d4cb4cce33a348c835783c3d66832ed8a6376c223defecbb259438a8bc2/resize@width:250;/IMG_3254.jpg.jpg",
                   "caption": "[Train station, Osaka, Japan](https://www.google.com/maps/place/34.70560555555556,135.49766666666665)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 31. 10. 2023 11:36</small>",
-                  "crop": "crop@left:117.3626060455257,top:1646.6472620787072,width:3364.33802917658,height:2242.8840794619164;"
+                  "crop": "crop@left:117.3626060455257,top:1646.6472620787072,width:3364.33802917658,height:2242.8840794619164;",
+                  "hash": "e2566e4547a5ad504cbefb16b17a726498d8d988",
+                  "filename": "IMG_3254.HEIC"
                 }
               ]
             }
@@ -123,7 +125,6 @@
       "type": "text",
       "body": "### Takeaway markers\n\nThe exploration of Japanese and western typographic symbols unveils a interplay between culture, communication, and design. In Japanese typography, the use of «maru» and «batsu» emphasises the importance of understanding cultural nuances in typography, especially for designers and communicators working across different cultural contexts. It underscores the power of typographic symbols in bridging or highlighting cultural divides."
     },
-
     {
       "type": "grid",
       "class": "image-emotional full-width break-before",
@@ -135,7 +136,8 @@
               "type": "image",
               "crop": "crop@left:112,top:0,width:2688,height:4032;",
               "caption": "Storage space · [teamLab office, Tokyo, Japan](https://www.google.com/maps/place/35.695274999999995,139.76487777777777)<small> · Photo:&nbsp;Stefan&nbsp;Huber · 08. 11. 2023 15:32</small>",
-              "path": "https://media.signalwerk.ch/japanese-typography/b58edb9aa5e5295968e207d4fff165d0a1db7f629de6b220349d940d1b1e5236/resize@width:250;/IMG_3709.jpg.jpg"
+              "hash": "2a18d64ca25fad0ef245d986e36a777583bc9870",
+              "filename": "IMG_3709.HEIC"
             }
           ]
         }
