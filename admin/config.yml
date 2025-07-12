@@ -62,6 +62,14 @@ types:
         name: caption
         widget: string
         required: false
+      - label: Filename
+        name: filename
+        widget: string
+        required: false
+      - label: Hash
+        name: hash
+        widget: string
+        required: false
       - label: Crop
         name: crop
         widget: string
