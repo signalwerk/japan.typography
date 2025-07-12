@@ -29,29 +29,6 @@ function typoExample(node, configuration) {
   );
 }
 
-// function page(node, { Helmet, processor }) {
-//   if (!node) return null;
-
-//   return (
-//     <>
-//       <Helmet>
-//         <title>{node.title}</title>
-//         <meta name="description" content={node.description} />
-//       </Helmet>
-
-//       <div className="header">
-//         <PageMenu page={node} name="main" />
-//       </div>
-
-//       <div className="content">
-//         <div className={`node-page ${node.class || ""}`}>
-//           <>{node.children && processor.run(node.children)}</>
-//         </div>
-//       </div>
-//     </>
-//   );
-// }
-
 const config = {
   // data: {
   //   image: (item) => {

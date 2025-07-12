@@ -18,7 +18,7 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v3
         with:
-          submodules: 'recursive'
+          submodules: "recursive"
 
       - name: ⚡ use node
         uses: actions/setup-node@v3
@@ -26,12 +26,10 @@ jobs:
           node-version: "20.x"
 
       - name: ⚙️ npm setup
-        # run: npm ci
-        run: yarn
+        run: npm ci
 
       - name: 🔨 npm build
-        # run: npm run build
-        run: yarn build:gh-pages
+        run: npm run build:gh-pages
 
       - name: 🚀 deploy
         uses: peaceiris/actions-gh-pages@v3
