@@ -70,7 +70,7 @@ convert_to_pdf() {
         --form "marginBottom=0" \
         --form "marginLeft=0" \
         --form "marginRight=0" \
-        --form 'waitDelay="1s"' \
+        --form 'waitDelay="3s"' \
         -o "$pdf_path"
 }
 
